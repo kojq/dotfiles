@@ -1,4 +1,4 @@
-image=lockscreen.jpg
+image=lock.jpg
 ignore-empty-password
 show-failed-attempts
 indicator-idle-visible
