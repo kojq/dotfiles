@@ -1,0 +1,11 @@
+color=3D2022
+ignore-empty-password
+show-failed-attempts
+indicator
+clock
+indicator-radius=130
+ring-color=4C566A
+key-hl-color=A3BE8C
+line-color=2E3440
+separator-color=3B4252
+bs-hl-color=A3BE8C
