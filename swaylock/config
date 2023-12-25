@@ -1,6 +1,6 @@
 ignore-empty-password
 show-failed-attempts
-image=lock.jpg
+image=~/Pictures/home.jpg
 bs-hl-color=69cc69
 indicator-radius=120
 indicator-idle-visible
