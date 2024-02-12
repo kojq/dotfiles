@@ -77,6 +77,5 @@
             "car": "",
             "default": ["", "", ""]
         },
-        "on-click": "pavucontrol"
     }
 }
