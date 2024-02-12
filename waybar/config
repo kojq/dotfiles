@@ -1,7 +1,5 @@
 {
-    "modules-left": [
-        "hyprland/workspaces"
-    ],
+    "height": 32,
     "modules-center": [
         "idle_inhibitor",
         "pulseaudio",
