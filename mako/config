@@ -1,8 +1,10 @@
 font=Sarasa UI SC 10
-background-color=#4c5569
-text-color=#dadeea
-margin=20
-border-color=#434c5e
-border-radius=4
-default-timeout=10000
-anchor=top-left
+background-color=#37305d
+text-color=#d3cccc
+height=500
+margin=15
+border-size=1
+border-color=#db607f
+border-radius=13
+default-timeout=15000
+anchor=top-center
