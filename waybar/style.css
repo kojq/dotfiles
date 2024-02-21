@@ -38,7 +38,7 @@ window#waybar.hidden {
 #workspaces button {
   padding: 0 15px;
   border-radius: 20px;
-  background: linear-gradient(to right, #483d8b, #783f3a, #603e63);
+  background: linear-gradient(45deg, #9f527a, #4a4e9d);
 }
 
 #pulseaudio {
