@@ -58,8 +58,15 @@ window#waybar.hidden {
 #battery.plugged {
 }
 
+@keyframes blink {
+  to {
+    color: #ffffff;
+  }
+}
+
 #battery.critical:not(.charging) {
-  animation: blink 0.5s linear infinite alternate;
+  animation: blink 1s linear infinite alternate;
+  color: #ff0000;
 }
 
 #network {
