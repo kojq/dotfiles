@@ -6,7 +6,7 @@
   border: none;
   border-radius: 3px;
   min-height: 0;
-  color: #ffffff;
+  color: #dad4d4;
 }
 
 #waybar {
@@ -23,6 +23,7 @@ window#waybar.hidden {
 }
 
 #workspaces button.active {
+  color: #6cc5c5;
 }
 
 #workspaces button.urgent {
