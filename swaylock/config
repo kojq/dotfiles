@@ -1,6 +1,6 @@
 ignore-empty-password
 show-failed-attempts
-image=~/.config/images/lock.jpg
+image=~/.config/images/lock.png
 bs-hl-color=69cc69
 indicator-radius=120
 indicator-idle-visible
