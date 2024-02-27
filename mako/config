@@ -5,5 +5,5 @@ height=500
 border-size=2
 border-color=#9b607f
 border-radius=13
-default-timeout=15000
+default-timeout=8000
 anchor=top-center
